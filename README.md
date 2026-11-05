@@ -1,5 +1,4 @@
-# daily-learning-log
-Daily coding practice, AI/ML learning and project progress
+
 # Daily Learning Log 🚀
 
 A daily record of my coding practice, AI/ML learning, SQL exercises, and software development progress.
