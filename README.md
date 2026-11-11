@@ -47,3 +47,8 @@ A daily record of my coding practice, AI/ML learning, SQL exercises, and softwar
 - Solve Python coding problems.
 - Practise SQL queries.
 - Improve an existing software development project.
+
+### Tomorrow's Goals
+
+- Solve Python coding problems.
+- Practise SQL queries.
