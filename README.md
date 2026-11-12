@@ -52,3 +52,9 @@ A daily record of my coding practice, AI/ML learning, SQL exercises, and softwar
 
 - Solve Python coding problems.
 - Practise SQL queries.
+
+What is Machine Learning?
+
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Instead of writing fixed rules, we train algorithms using historical data so they can identify patterns and generalize to unseen data.
