@@ -42,11 +42,7 @@ A daily record of my coding practice, AI/ML learning, SQL exercises, and softwar
 - Git and GitHub
 - AI/ML Fundamentals
 
-### Tomorrow's Goals
 
-- Solve Python coding problems.
-- Practise SQL queries.
-- Improve an existing software development project.
 
 ### Tomorrow's Goals
 
